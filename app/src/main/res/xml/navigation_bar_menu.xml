@@ -1,0 +1,12 @@
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        id="@+id/tab_home"
+        title="In"
+        activeColor="@color/colorPrimary"
+        />
+    <tab
+        id="@+id/tab_wallet"
+        title="Out"
+        activeColor="@color/colorPrimary" />
+
+</tabs>
